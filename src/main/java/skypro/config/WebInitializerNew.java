@@ -14,4 +14,4 @@ public class WebInitializerNew extends AbstractAnnotationConfigDispatcherServlet
     protected String[] getServletMappings() {
         return new String[]{"/"};
     }
-}
+} //
